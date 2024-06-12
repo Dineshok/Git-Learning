@@ -1,2 +1,3 @@
 This is the new file that i'm adding through branching
+CHANGING FROM NEW
 this is second time i'm trying 
